@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hello, I'm Abhishek Maurya
+# 👋 Hello, I'm Abhishek
 
 🎓 Computer Science Graduate  
 💻 Software Developer | Competitive Programmer  
